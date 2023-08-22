@@ -1,0 +1,6 @@
+{
+  "name": "default-secondary-lambda-function",
+  "version": "1.0.0",
+  "description": "default package.json for secondary lambda function",
+  "main": "index.js"
+}
